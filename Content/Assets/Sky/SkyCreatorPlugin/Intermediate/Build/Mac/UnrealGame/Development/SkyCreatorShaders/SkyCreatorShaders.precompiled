@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/SkyCreatorShaders/Module.SkyCreatorShaders.cpp.o",
+		"../../../arm64/UnrealGame/Development/SkyCreatorShaders/Module.SkyCreatorShaders.cpp.o",
+		"../../../x64/UnrealGame/Development/SkyCreatorShaders/Module.SkyCreatorShaders.cpp.o",
+		"../../../x64/UnrealGame/Development/SkyCreatorShaders/Module.SkyCreatorShaders.cpp.o"
+	]
+}

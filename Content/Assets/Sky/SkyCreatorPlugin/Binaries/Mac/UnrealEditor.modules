@@ -1,0 +1,9 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"SkyCreatorEditorPlugin": "UnrealEditor-SkyCreatorEditorPlugin.dylib",
+		"SkyCreatorPlugin": "UnrealEditor-SkyCreatorPlugin.dylib",
+		"SkyCreatorShaders": "UnrealEditor-SkyCreatorShaders.dylib"
+	}
+}
